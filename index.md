@@ -18,5 +18,5 @@ My GitHub page is http://github.com/salvador2104.
 
 * Lab 8
 
-    In lab-8, part 3, we used file input and output to create a program that reads ANSI & ASCII animations from files. This program was one of the most straightforward yet enjoyable programs we created. It introduced me to the animation side of programming and made me realize just how complicated animations were.
+    In lab-8, part 3, we used file input and output to create a program that reads ANSI & ASCII animations from files. This program was one of the most straightforward yet enjoyable programs we started because after we wrote it, we saw funny animations. It introduced me to the animation side of programming and made me realize just how complicated animations were.
 
